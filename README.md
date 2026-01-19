@@ -18,7 +18,7 @@
   <a href="https://github.com/zzaolv?tab=stars">
     <img src="https://img.shields.io/badge/Stars-⭐-FFD700?style=for-the-badge&labelColor=24292e" alt="Stars"/>
   </a>
-  <a href="https://zzaolv.github.io">
+  <a href="https://web.zeaolv.top">
     <img src="https://img.shields.io/badge/个人站点-web.zeaolv.top-7AA2F7?style=for-the-badge&logo=safari&logoColor=white&labelColor=24292e" alt="Website"/>
   </a>
 </div>
@@ -27,7 +27,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 🧑‍💻 关于我的仓库 - 信息卡片 -->
+<!-- 🧑💻 关于我的仓库 - 信息卡片 -->
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=zzaolv&data=repositories,stars,commits&theme=darkmode" alt="GitHub Profile" />
 </div>
@@ -69,17 +69,15 @@
 
 <p align="center">
   <a href="https://github.com/zzaolv">
-    <!-- ✅ 开启了 count_private=true -->
-    <img height="180em" src="https://github-readme-stats-murex-delta-71.vercel.app/api?username=zzaolv&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged" />
-    
-    <!-- ✅ 私有域名 -->
-    <img height="180em" src="https://github-readme-stats-murex-delta-71.vercel.app/api/top-langs/?username=zzaolv&layout=compact&theme=github_dark_dimmed&langs_count=8&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9" />
+    <!-- 使用官方镜像，更稳定 -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzaolv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=c9d1d9" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzaolv&layout=compact&theme=tokyonight&langs_count=8&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9" />
   </a>
 </p>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak - 使用稳定的 demolab 镜像 -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzaolv&theme=tokyonight&hide_border=true&background=0d1117&stroke=7AA2F7&ring=7AA2F7&fire=FF6B6B&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=8b949e&locale=zh_Hans" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zzaolv&theme=tokyonight&hide_border=true&background=0d1117&ring=7AA2F7&fire=FF6B6B&currStreakLabel=7AA2F7&locale=zh_Hans" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -152,19 +150,19 @@
 
 <p align="center">
   <a href="https://github.com/zzaolv/CSet-manual">
-    <img align="center" src="https://github-readme-stats-murex-delta-71.vercel.app/api/pin/?username=zzaolv&repo=CSet-manual&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzaolv&repo=CSet-manual&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7" />
   </a>
   <a href="https://github.com/zzaolv/tempshare">
-    <img align="center" src="https://github-readme-stats-murex-delta-71.vercel.app/api/pin/?username=zzaolv&repo=tempshare&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzaolv&repo=tempshare&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zzaolv/account">
-    <img align="center" src="https://github-readme-stats-murex-delta-71.vercel.app/api/pin/?username=zzaolv&repo=account&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzaolv&repo=account&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7" />
   </a>
   <a href="https://github.com/zzaolv/python">
-    <img align="center" src="https://github-readme-stats-murex-delta-71.vercel.app/api/pin/?username=zzaolv&repo=python&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzaolv&repo=python&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7" />
   </a>
 </p>
 
@@ -211,7 +209,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zzaolv&style=for-the-badge&color=7AA2F7&label=访问量" alt="Profile Views" />
-  
   <a href="https://github.com/zzaolv/zzaolv/commits/main">
     <img src="https://img.shields.io/github/last-commit/zzaolv/zzaolv?style=for-the-badge&color=7AA2F7&label=最后更新" alt="Last Update" />
   </a>
