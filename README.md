@@ -1,7 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════
      🎨 GitHub Profile README - zzaolv
      ═══════════════════════════════════════════════════════════════════════════════ -->
-
 <!-- 🌊 头部：渐变波浪背景 + 打字机特效 -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=zzaolv&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=构建%20|%20探索%20|%20开源&descAlignY=52&descSize=18" width="100%" />
