@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/zzaolv">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=欢迎来到我的代码宇宙+🚀;正在用+Rust+构建高性能工具..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=欢迎来到我的代码宇宙+🚀;正在用+AI+构建高性能工具..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,7 +32,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-wheat-ten.vercel.app/?user=zzaolv&theme=tokyonight&hide_border=true&background=0d1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7&sideLabels=c0caf5&dates=565f89&locale=zh_Hans" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zzaolv&theme=tokyonight&hide_border=true&background=0d1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=7AA2F7&sideLabels=c0caf5&dates=565f89&locale=zh_Hans" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -85,7 +85,7 @@
 
 <div align="center">
   <h3>🏆 GitHub 成就</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=zzaolv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zzaolv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Trophy" />
 </div>
 
 <br/>
