@@ -85,7 +85,7 @@
 
 <div align="center">
   <h3>🏆 GitHub 成就</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=zzaolv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="Trophy" />
+  <img src="https://github-profile-achievements.vercel.app/?user=zzaolv&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Achievements" />
 </div>
 
 <br/>
