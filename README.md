@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════
-     🎨 GitHub Profile README - zeaolv
+     🎨 GitHub Profile README - zzaolv
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- 🌊 头部：渐变波浪背景 + 打字机特效 -->
@@ -62,7 +62,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 📊 GitHub 统计面板 (私有库版) -->
+<!-- 📊 GitHub 统计面板 -->
 <div align="center">
   <h3>📈 仓库活跃度分析</h3>
   <p><i>📌 数据来源：含私有库贡献</i></p>
@@ -70,8 +70,10 @@
 
 <p align="center">
   <a href="https://github.com/zzaolv">
+    <!-- ✅ 开启了 count_private=true -->
     <img height="180em" src="https://github-readme-stats-murex-delta-71.vercel.app/api?username=zzaolv&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged" />
-
+    
+    <!-- ✅ 私有域名 -->
     <img height="180em" src="https://github-readme-stats-murex-delta-71.vercel.app/api/top-langs/?username=zzaolv&layout=compact&theme=github_dark_dimmed&langs_count=8&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9" />
   </a>
 </p>
