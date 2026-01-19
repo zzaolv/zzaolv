@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */6 * * *"}]  # 每6小时更新一次
+  schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 
@@ -28,14 +28,11 @@ jobs:
           output_action: commit
           committer_branch: main
           
-          # Tokyo Night 主题配色
-          config_order: base.header, isocalendar, languages, notable, achievements
-          
-          # 等距日历 (贡献热力图)
+          # 等距日历 (贡献热力图) - 中文
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 编程语言统计
+          # 编程语言统计 - 中文
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -53,3 +50,25 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
+          
+          # ===== 中文本地化配置 =====
+          # 启用 PageSpeed 插件（可选，如果需要网站速度测试）
+          # plugin_pagespeed: no
+          
+          # 启用代码习惯统计
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          
+          # 中文翻译覆盖
+          extras_css: |
+            /* Tokyo Night 主题颜色覆盖 */
+            :root {
+              --color-calendar-graph-day-bg: #1a1b26;
+              --color-calendar-graph-day-L1-bg: #3d59a1;
+              --color-calendar-graph-day-L2-bg: #7AA2F7;
+              --color-calendar-graph-day-L3-bg: #89ddff;
+              --color-calendar-graph-day-L4-bg: #c0caf5;
+            }
