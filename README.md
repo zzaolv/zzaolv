@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════
-     🎨 极简主义 GitHub Profile README - zzaolv
+     🎨 GitHub Profile README - zeaolv
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- 🌊 头部：渐变波浪背景 + 打字机特效 -->
@@ -28,7 +28,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 🧑‍💻 关于我的仓库 - 重新设计的信息卡片 -->
+<!-- 🧑‍💻 关于我的仓库 - 信息卡片 -->
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=zzaolv&data=repositories,stars,commits&theme=darkmode" alt="GitHub Profile" />
 </div>
@@ -62,22 +62,23 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 📊 GitHub 统计面板 - 使用新版主题 -->
+<!-- 📊 GitHub 统计面板 (私有库版) -->
 <div align="center">
   <h3>📈 仓库活跃度分析</h3>
-  <p><i>📌 已启用私有贡献统计 (Include private contributions)</i></p>
+  <p><i>📌 数据来源：含私有库贡献</i></p>
 </div>
 
 <p align="center">
   <a href="https://github.com/zzaolv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzaolv&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzaolv&layout=compact&theme=github_dark_dimmed&langs_count=8&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9" />
+    <img height="180em" src="https://github-readme-stats-murex-delta-71.vercel.app/api?username=zzaolv&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&text_color=c9d1d9&show=reviews,discussions_started,discussions_answered,prs_merged" />
+
+    <img height="180em" src="https://github-readme-stats-murex-delta-71.vercel.app/api/top-langs/?username=zzaolv&layout=compact&theme=github_dark_dimmed&langs_count=8&locale=cn&hide_border=true&bg_color=0d1117&title_color=7AA2F7&text_color=c9d1d9" />
   </a>
 </p>
 
-<!-- GitHub Streak - 使用备用镜像 streak-stats.demolab.com -->
+<!-- GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zzaolv&theme=tokyonight&hide_border=true&background=0d1117&stroke=7AA2F7&ring=7AA2F7&fire=FF6B6B&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=8b949e&locale=zh_Hans" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzaolv&theme=tokyonight&hide_border=true&background=0d1117&stroke=7AA2F7&ring=7AA2F7&fire=FF6B6B&currStreakLabel=7AA2F7&sideLabels=7AA2F7&dates=8b949e&locale=zh_Hans" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -132,15 +133,13 @@
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<!-- 🏆 成就徽章 - 使用备用镜像 -->
+<!-- 🏆 成就徽章 -->
 <div align="center">
   <h3>🏆 GitHub 成就</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=zzaolv&theme=onestar&no-frame=true&no-bg=false&row=1&column=7&margin-w=10" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zzaolv&theme=onestar&no-frame=true&no-bg=true&margin-w=10" alt="Trophy" />
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -152,19 +151,19 @@
 
 <p align="center">
   <a href="https://github.com/zzaolv/CSet-manual">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzaolv&repo=CSet-manual&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
+    <img align="center" src="https://github-readme-stats-murex-delta-71.vercel.app/api/pin/?username=zzaolv&repo=CSet-manual&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
   </a>
   <a href="https://github.com/zzaolv/tempshare">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzaolv&repo=tempshare&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
+    <img align="center" src="https://github-readme-stats-murex-delta-71.vercel.app/api/pin/?username=zzaolv&repo=tempshare&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/zzaolv/account">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzaolv&repo=account&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
+    <img align="center" src="https://github-readme-stats-murex-delta-71.vercel.app/api/pin/?username=zzaolv&repo=account&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
   </a>
   <a href="https://github.com/zzaolv/python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zzaolv&repo=python&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
+    <img align="center" src="https://github-readme-stats-murex-delta-71.vercel.app/api/pin/?username=zzaolv&repo=python&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=7AA2F7&icon_color=7AA2F7&description_lines_count=2" />
   </a>
 </p>
 
@@ -199,12 +198,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- 🐍 贡献蛇图 -->
-<!-- 
-⚠️ 蛇图需要配置 GitHub Actions 才能生成，请按以下步骤操作：
-1. 在 zzaolv/zzaolv 仓库创建 .github/workflows/snake.yml 文件
-2. 使用下方提供的 workflow 配置
-3. 手动运行一次 Action 或等待自动触发
--->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzaolv/zzaolv/output/github-contribution-grid-snake-dark.svg">
@@ -217,7 +210,10 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zzaolv&style=for-the-badge&color=7AA2F7&label=访问量" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fzzaolv%2Fzzaolv&query=%24.pushed_at&style=for-the-badge&label=最后更新&color=7AA2F7" alt="Last Update" />
+  
+  <a href="https://github.com/zzaolv/zzaolv/commits/main">
+    <img src="https://img.shields.io/github/last-commit/zzaolv/zzaolv?style=for-the-badge&color=7AA2F7&label=最后更新" alt="Last Update" />
+  </a>
 </div>
 
 <br/>
