@@ -1,0 +1,73 @@
+name: Profile Assets
+
+on:
+  schedule:
+    - cron: "17 0 * * *"        # 每天一次，北京时间 08:17
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/**"]
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Render metrics
+        uses: lowlighter/metrics@latest   # 建议固定为 Releases 页中的具体版本
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: zzaolv
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
+          filename: github-metrics.svg
+          output_action: none
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_habits_trim: yes
+          extras_css: |
+            :root {
+              --color-calendar-graph-day-bg: #1a1b26;
+              --color-calendar-graph-day-L1-bg: #3d59a1;
+              --color-calendar-graph-day-L2-bg: #7AA2F7;
+              --color-calendar-graph-day-L3-bg: #89ddff;
+              --color-calendar-graph-day-L4-bg: #c0caf5;
+            }
+
+      - name: Collect metrics render
+        run: |
+          mkdir -p dist
+          sudo cp /metrics_renders/github-metrics.svg dist/
+          sudo chown -R "$(id -u):$(id -g)" dist
+          ls -la dist
+
+      - name: Render snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
